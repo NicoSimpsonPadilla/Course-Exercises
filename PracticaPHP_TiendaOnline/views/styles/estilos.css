@@ -1,0 +1,15 @@
+/* Formulario añadir producto */
+.añadirProducto {
+    background-color: rgb(184, 181, 181);
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 5%;
+}
+
+.añadirProducto_content {
+    margin-left: 10%;
+}
+
+.añadirProducto_content h1 {
+    margin-bottom: 20px;
+}
